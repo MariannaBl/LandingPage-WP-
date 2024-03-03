@@ -1,2 +1,2 @@
-# LandingPage-WP-
+# LandingPage-WP
 Elementor
